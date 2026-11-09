@@ -1,0 +1,28 @@
+h1 {
+  color: red;
+  font-weight: 500px;
+  font-size: 40px;
+  letter-spacing: 40px;
+  line-height: 70px;
+  background-color: rgb(3, 200, 200);
+  width: 240px;
+  height: 300px;
+  border: 1px solid black;
+}
+body {
+  width: 400px;
+  background-color: chartreuse;
+  border: none;
+  border-radius: 40px;
+}
+.addbtn {
+  background-color: red;
+  border-radius: 30px;
+}
+.getbtn {
+  background-color: blue;
+  border: none;
+}
+#redbtn {
+  background-color: darkgreen;
+}
